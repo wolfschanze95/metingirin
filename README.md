@@ -6,3 +6,7 @@
 
 # MANTİKSAL
 [MANTİKSAL](https://github.com/wolfschanze95/MANT-KSAL)
+
+# STANDART ÇIKTI ALMA FONKSİYONU
+[STANDART ÇIKTI ALMA FONKSİYONU](https://github.com/wolfschanze95/STANDAR-CIKTI-ALMA-FONKSIYONU/tree/main)
+
