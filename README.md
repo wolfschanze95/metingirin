@@ -10,3 +10,6 @@
 # STANDART ÇIKTI ALMA FONKSİYONU
 [STANDART ÇIKTI ALMA FONKSİYONU](https://github.com/wolfschanze95/STANDAR-CIKTI-ALMA-FONKSIYONU/tree/main)
 
+# NOKTA(.) FORMAT METODU
+[NOKTA(.) FORMAT METODU](https://github.com/wolfschanze95/.format-metodu/blob/main/README.md)
+
