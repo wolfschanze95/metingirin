@@ -13,3 +13,6 @@
 # NOKTA(.) FORMAT METODU
 [NOKTA(.) FORMAT METODU](https://github.com/wolfschanze95/.format-metodu/blob/main/README.md)
 
+# STANDART ÇIKTI ALMA FONKSİONU
+[STANDART ÇIKTI ALMA FONKSİONU](https://github.com/wolfschanze95/STANDAR-CIKTI-ALMA-FONSIONU/tree/main)
+
