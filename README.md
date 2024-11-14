@@ -16,3 +16,7 @@
 # STANDART ÇIKTI ALMA FONKSİONU
 [STANDART ÇIKTI ALMA FONKSİONU](https://github.com/wolfschanze95/STANDAR-CIKTI-ALMA-FONSIONU/tree/main)
 
+# TİP DÖNÜŞÜM YAPILARI
+[TİP DÖNÜŞÜM YAPILARI](https://github.com/wolfschanze95/tip_d-n-m_yapilari/tree/main)
+
+
