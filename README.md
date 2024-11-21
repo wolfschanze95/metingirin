@@ -19,4 +19,6 @@
 # TİP DÖNÜŞÜM YAPILARI
 [TİP DÖNÜŞÜM YAPILARI](https://github.com/wolfschanze95/tip_d-n-m_yapilari/blob/main/README.md)
 
+# ÇOKLU VERİ ELEMANLARI
+[ÇOKLU VERİ ELEMANLARI](https://github.com/wolfschanze95/Coklu_Veri_Elemanlari/tree/main)
 
