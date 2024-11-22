@@ -23,4 +23,5 @@
 [ÇOKLU VERİ ELEMANLARI](https://github.com/wolfschanze95/Coklu_Veri_Elemanlari/blob/main/README.md) GÜNCELLENDİ
 
 # KOŞULLU YAPILAR 
+[KOŞULLU YAPILAR](https://github.com/wolfschanze95/KOSULLU_YAPILAR/tree/main)
 
