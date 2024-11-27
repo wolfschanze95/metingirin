@@ -20,8 +20,8 @@
 [TİP DÖNÜŞÜM YAPILARI](https://github.com/wolfschanze95/tip_d-n-m_yapilari/blob/main/README.md)
 
 # ÇOKLU VERİ ELEMANLARI
-[ÇOKLU VERİ ELEMANLARI](https://github.com/wolfschanze95/Coklu_Veri_Elemanlari/blob/main/README.md) GÜNCELLENDİ
+[ÇOKLU VERİ ELEMANLARI](https://github.com/wolfschanze95/Coklu_Veri_Elemanlari/blob/main/README.md) 
 
 # KOŞULLU YAPILAR 
-[KOŞULLU YAPILAR](https://github.com/wolfschanze95/KOSULLU_YAPILAR/tree/main)
+[KOŞULLU YAPILAR](https://github.com/wolfschanze95/KOSULLU_YAPILAR/blob/main/README.md))(GÜNCELLENDİ)
 
